@@ -1,2 +1,2 @@
 # JavaPokeri on pokeriteemainen komentorivipeli.
-JavaPokeri executable JAR file
+JavaPokeri-CLI executable JAR file
